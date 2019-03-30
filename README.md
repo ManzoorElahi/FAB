@@ -1,6 +1,6 @@
 ### FAB - Frank Albert Benford
 
-A windows app for the implementation of Benford's Law build using Python.
+A windows app for the implementation of Benford's Law, build using Python.
 
 + https://en.wikipedia.org/wiki/Benford's_law
 
